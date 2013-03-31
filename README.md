@@ -14,7 +14,9 @@ HEADERS += qrightclickbutton.h
 
 Then include it in project directory.
 
+```
 #include <QRightClickButton>
+```
 
 And finally add it whereever you want.
 
